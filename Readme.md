@@ -35,6 +35,7 @@ After successful installation of the package following the steps discribed above
 window and navigate to package folder where accompaining files are saved and run the command
 `python app.py` to run the server as shown in the diagram below. Make sure to activate the virtual
 environment.
+![cmd](https://github.com/user-attachments/assets/2cca45f2-7f04-4ceb-8c18-012227f0c6ac)
 
 Once the server is up, open postman app from the installation icon on the desktop. Click [here](https://www.postman.com/downloads/) to follow the
 steps to install Postman in your system.
@@ -44,5 +45,7 @@ of the organization or institution while payment is either confirm or decline. R
 clicking on the Send making sure it is at Post postion. The return json data contains the API Key 
 the Vendorcode and the expring date of the API key, which are required to acces other componenet routes of the API. The whole process
 is shown below
+![postman1](https://github.com/user-attachments/assets/c5d38bcd-a145-4ffe-93b3-7f3c19e71adf)
+
 ## Using the API with Postman App
 1. First run the local host root to ubtain Api key for the API. The painment for the API key is in Pi coin. The request body should comprise of keys vendor, and director which is the name of the institution or organisation and the director respectively, applying to use the API. The request body should equally contain the payment confirmation. 
