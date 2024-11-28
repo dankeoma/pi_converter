@@ -1,0 +1,32 @@
+ 
+2024-11-28 19:13:36,116 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-28 19:13:36,116 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-28 19:13:36,124 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-28 19:13:37,004 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-28 19:13:37,010 INFO werkzeug MainThread :  * Debugger PIN: 595-671-160
+2024-11-28 19:15:32,764 INFO werkzeug Thread-2 : 127.0.0.1 - - [28/Nov/2024 19:15:32] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-11-28 19:15:46,178 INFO app Thread-3 : Done: API Key generated successfully
+2024-11-28 19:15:46,180 INFO werkzeug Thread-3 : 127.0.0.1 - - [28/Nov/2024 19:15:46] "POST / HTTP/1.1" 200 -
+2024-11-28 19:21:00,231 INFO werkzeug MainThread :  * Detected change in 'D:\\Desktop\\work\\pi_converter\\pi_convert\\app.py', reloading
+2024-11-28 19:21:00,427 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-28 19:21:01,800 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-28 19:21:01,809 INFO werkzeug MainThread :  * Debugger PIN: 595-671-160
+2024-11-28 19:22:04,505 ERROR app Thread-2 : Error: Something went wrong, missing or wrong request body
+2024-11-28 19:22:04,506 INFO werkzeug Thread-2 : 127.0.0.1 - - [28/Nov/2024 19:22:04] "POST / HTTP/1.1" 200 -
+2024-11-28 19:22:13,213 ERROR app Thread-3 : Error: payment required in the request body
+2024-11-28 19:22:13,214 INFO werkzeug Thread-3 : 127.0.0.1 - - [28/Nov/2024 19:22:13] "POST / HTTP/1.1" 200 -
+2024-11-28 22:49:27,554 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-28 22:49:27,566 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-28 22:49:27,573 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-28 22:49:28,520 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-28 22:49:28,526 INFO werkzeug MainThread :  * Debugger PIN: 595-671-160
+2024-11-28 22:55:36,692 INFO app Thread-2 : Done: API Key generated successfully
+2024-11-28 22:55:36,695 INFO werkzeug Thread-2 : 127.0.0.1 - - [28/Nov/2024 22:55:36] "POST / HTTP/1.1" 200 -
+2024-11-28 23:02:44,452 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-28 23:02:44,452 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-11-28 23:02:44,454 INFO werkzeug MainThread :  * Restarting with stat
+2024-11-28 23:02:45,247 WARNING werkzeug MainThread :  * Debugger is active!
+2024-11-28 23:02:45,253 INFO werkzeug MainThread :  * Debugger PIN: 595-671-160
